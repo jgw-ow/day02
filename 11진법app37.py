@@ -1,0 +1,5 @@
+print(10)
+print(0b00000010)
+print(-0b00000010)
+print(0o10)
+print(0x10)

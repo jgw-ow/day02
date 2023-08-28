@@ -1,0 +1,8 @@
+def func(n, k):
+    if n >= k:
+        return
+    else:
+        print(n, "번째 실행")
+        func(n+1, k)
+        
+func(0, 10)
